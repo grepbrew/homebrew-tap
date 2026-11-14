@@ -1,6 +1,6 @@
 cask "hose" do
-  version "0.2.7"
-  sha256 "d704f1fdfc3279d4c83b983e0becde822223c10f9cd63b06097283fdc8f21bd0"
+  version "0.2.10"
+  sha256 "48048da11e2b9f9d73c068d5844234a23a7495884b4d718b9aa081816c4569de"
 
   url "https://github.com/grepbrew/Hose/releases/download/v#{version}/Hose_#{version}_universal.dmg"
   name "Hose"
